@@ -27,5 +27,3 @@ Here are some of my top projects:
 ---
 
 ⭐ "Data is the new oil, but insights are the spark that ignites change."
-- ⚡ Fun fact: ...
--->

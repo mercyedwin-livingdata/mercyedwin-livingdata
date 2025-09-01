@@ -20,7 +20,7 @@
 
 ## 📌 Featured Projects
 Here is my top project:
-- [Jumia Web Scraping Project ](https://github.com/mercyedwin-livingdata/jumiawebscraping)
+- [jumia-webscraping]( https://github.com/mercyedwin-livingdata/jumia-websraping)
 
 ---
 

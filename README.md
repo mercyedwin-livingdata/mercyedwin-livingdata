@@ -19,10 +19,8 @@
 - *Email:* adadimma336@gmail.com
 
 ## 📌 Featured Projects
-Here are some of my top projects:
-- [Spotify Data Analysis 🎵](https://github.com/yourusername/spotify-data-analysis)
-- [Sales Dashboard with Power BI 📊](https://github.com/yourusername/sales-dashboard)
-- [Customer Segmentation with Python 🧩](https://github.com/yourusername/customer-segmentation)
+Here is my top project:
+- [Jumia Web Scraping Project ](https://github.com/mercyedwin-livingdata/jumiawebscraping)
 
 ---
 

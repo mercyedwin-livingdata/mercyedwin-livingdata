@@ -21,6 +21,7 @@
 ## 📌 Featured Projects
 Here is my top project:
 - [jumia-webscraping]( https://github.com/mercyedwin-livingdata/jumia-websraping)
+- [spotify-wrapped](https://github.com/mercyedwin-livingdata/spotify-wrapped)
 
 ---
 

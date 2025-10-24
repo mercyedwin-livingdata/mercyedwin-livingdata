@@ -3,16 +3,16 @@
 💡 Turning raw data into meaningful insights.
 
 ## 🚀 About Me
-- 📊 Aspiring *Data Analyst*
+- 📊 *Data Scientist*
 - 🐍 Skilled in *Python, **Pandas, **NumPy*
-- 📈 Experienced with *Excel, **SQL, and **Power BI*
+- 📈 Experienced with *Excel, **SQL, and **R*
 - 🎯 Goal: Use data to tell impactful stories and solve real-world problems
 
 ## 🛠 Skills & Tools
 - *Programming:* Python (Pandas, NumPy, Matplotlib, Seaborn)
-- *Databases:* SQL, SQLite
-- *Data Visualization:* Power BI, Excel
-- *Version Control:* Git, GitHub
+- *Databases:*  Postgres SQL ,Mongo DB  
+- *Data Visualization:*  Excel
+- *Version Control:* GitHub
 
 ## 📫 Let's Connect
 - *LinkedIn:* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mercy-edwin) 

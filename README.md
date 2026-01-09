@@ -1,16 +1,16 @@
-# Hi there, I'm Mercy 👋  
+# Hi there, I'm Mercy Edwin👋  
 
 💡 Turning raw data into meaningful insights.
 
 ## 🚀 About Me
-- 📊 *Data Scientist*
+- 📊 *Data Analyst*
 - 🐍 Skilled in *Python, **Pandas, **NumPy*
 - 📈 Experienced with *Excel, **SQL, and **R*
 - 🎯 Goal: Use data to tell impactful stories and solve real-world problems
 
 ## 🛠 Skills & Tools
 - *Programming:* Python (Pandas, NumPy, Matplotlib, Seaborn)
-- *Databases:*  Postgres SQL ,Mongo DB  
+- *Databases:*   Pg Admin 4 ,Mongo DB  
 - *Data Visualization:*  Excel
 - *Version Control:* GitHub
 
